@@ -34,6 +34,6 @@
 ### yellow snow you get this right?
 and this whas in a beautifull village called ischgl
 
-[<<previous<<](https://github.com/said-droid/challenge-markdown) thomas [next>>](link)
+[<<previous<<](https://github.com/said-droid/challenge-markdown) thomas [next>>](https://github.com/tim1185/markdown)
 
 
